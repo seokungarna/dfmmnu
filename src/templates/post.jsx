@@ -24,13 +24,14 @@ const Post = ({ data, pageContext }) => {
   const {html, frontmatter, excerpt } = data.markdownRemark
   const {date, title, tags, path, description} = frontmatter
   const image = frontmatter.cover.childImageSharp.fluid;
+  //console.log(image);
 
   return (
     <Layout>
       <SEO
         title={title}
         description={description || excerpt || ' '}
-        banner={image}
+        banner={image.src}
         pathname={path}
         article
       />
@@ -43,7 +44,7 @@ const Post = ({ data, pageContext }) => {
         <PostSuggestion>
           {prev && (
             <Link to={prev.frontmatter.path}>
-              Previous
+              Föregående inlägg
               <h3>{prev.frontmatter.title}</h3>
             </Link>
           )}
@@ -51,7 +52,7 @@ const Post = ({ data, pageContext }) => {
         <PostSuggestion>
           {next && (
             <Link to={next.frontmatter.path}>
-              Next
+              Nästa inlägg
               <h3>{next.frontmatter.title}</h3>
             </Link>
           )}
