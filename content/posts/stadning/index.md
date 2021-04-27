@@ -1,6 +1,6 @@
 ---
 path: "/flyttstadning"
-cover: "./stadning.jpg"
+cover: "./flyttstadning.jpg"
 date: "2021-04-27"
 title: "Tips inför bokning av flyttstädning"
 published: true
@@ -30,7 +30,7 @@ Det som behövs göras vid en flyddstädning är ungefär detta;
     * Bänkar, luckor etc. ska torkas av.
     * Kolla och rengöra filter i köksfläkten.
     * Diskmaskinen ska rengöras.
-    
+
 - Badrumen:
     * Belysning ska torkas av.
     * Badrumsskåpen ska torkas av.
