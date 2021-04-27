@@ -3,7 +3,7 @@ import { graphql } from 'gatsby';
 import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
 import styled from '@emotion/styled';
-import { Header, PostList } from 'components';
+import { Headerz, Header, PostList } from 'components';
 import { Layout } from 'layouts';
 
 const PostWrapper = styled.div`
@@ -25,7 +25,7 @@ const Index = ({ data }) => {
   return (
     <Layout>
       <Helmet title={"Hantverkarn' Tipsar"} />
-      <Header title="Hantverkarn' Tipsar">Här hittar du gedigna tips och ideér runt takläggning, snickerier, elekrikerjobb, etc.</Header>
+      <Headerz title="Hantverkarn' Tipsar">Här hittar du gedigna tips och ideér runt takläggning, snickerier, elekrikerjobb, etc.</Headerz>
       <PostWrapper>
         {edges.map(({ node }) => {
           const { id, excerpt, frontmatter } = node;

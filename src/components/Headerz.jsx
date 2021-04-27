@@ -1,8 +1,6 @@
 import React from 'react';
 import styled from '@emotion/styled';
-import Img from 'gatsby-image';
 import PropTypes from 'prop-types';
-
 
 const Wrapper = styled.header`
   -webkit-clip-path: polygon(100% 0, 0 0, 0 70%, 50% 100%, 100% 70%);
@@ -45,24 +43,19 @@ const Subtitle = styled.p`
   color: ${props => props.theme.colors.white.light};
 `;
 
-const Header = ({ children, title, date, cover }) => (
+const Headerz = ({ children, title }) => (
   <Wrapper>
-    <Img fluid = {cover || {} || [] || ''} />
-    <Text>
+      <Text>
       <h1>{title}</h1>
-      <h3>{date}</h3>
-
-      {children && <Subtitle>{children}</Subtitle>}
-    </Text>
+      <Subtitle> {children} </Subtitle>
+      </Text>
+    
   </Wrapper>
 );
 
-export default Header;
+export default Headerz;
 
-Header.propTypes = {
-  children: PropTypes.oneOfType([PropTypes.node, PropTypes.bool]),
-  cover: PropTypes.oneOfType([PropTypes.object, PropTypes.bool]),
-  date: PropTypes.oneOfType([PropTypes.string, PropTypes.bool]),
+Headerz.propTypes = {
   title: PropTypes.oneOfType([
     PropTypes.string,
     PropTypes.object,
@@ -70,9 +63,6 @@ Header.propTypes = {
   ]),
 };
 
-Header.defaultProps = {
-  children: false,
-  cover: false,
-  date: false,
-  title: false,
+Headerz.defaultProps = {
+  title :  false,
 };
