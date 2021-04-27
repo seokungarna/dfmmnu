@@ -47,7 +47,7 @@ const Headerz  = ({ children, title }) => (
   <Wrapper>
       <Text>
       <h1>{title} </h1>
-      <Subtitle> {children} </Subtitle>
+      <Subtitle> {children}</Subtitle>
       </Text>
     
   </Wrapper>
