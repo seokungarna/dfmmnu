@@ -2,7 +2,7 @@ import React from 'react';
 import { graphql } from 'gatsby';
 import Helmet from 'react-helmet';
 import PropTypes from 'prop-types';
-import { Header, Headerz, BlogList } from 'components';
+import { Headerz, BlogList } from 'components';
 import { Layout } from 'layouts';
 
 

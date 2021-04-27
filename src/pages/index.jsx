@@ -3,7 +3,7 @@ import { graphql } from 'gatsby';
 import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
 import styled from '@emotion/styled';
-import { Headerz, Header, PostList } from 'components';
+import { Headerz, PostList } from 'components';
 import { Layout } from 'layouts';
 
 const PostWrapper = styled.div`

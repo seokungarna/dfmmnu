@@ -30,6 +30,7 @@ Det som behövs göras vid en flyddstädning är ungefär detta;
     * Bänkar, luckor etc. ska torkas av.
     * Kolla och rengöra filter i köksfläkten.
     * Diskmaskinen ska rengöras.
+    
 - Badrumen:
     * Belysning ska torkas av.
     * Badrumsskåpen ska torkas av.

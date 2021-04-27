@@ -5,4 +5,4 @@ import PostList from './PostList';
 import SEO from './SEO';
 import TagsBlock from './TagsBlock';
 
-export { BlogList, Header, Headerz, PostList, SEO, TagsBlock };
+export { BlogList, Headerz, Header, PostList, SEO, TagsBlock };

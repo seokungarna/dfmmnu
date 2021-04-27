@@ -43,10 +43,10 @@ const Subtitle = styled.p`
   color: ${props => props.theme.colors.white.light};
 `;
 
-const Headerz = ({ children, title }) => (
+const Headerz  = ({ children, title }) => (
   <Wrapper>
       <Text>
-      <h1>{title}</h1>
+      <h1>{title} </h1>
       <Subtitle> {children} </Subtitle>
       </Text>
     
