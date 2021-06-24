@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: */tags/
+Allow: /
 
-sitemap: http://dfmm.nu/sitemap.xml
+sitemap: https://dfmm.nu/sitemap.xml
