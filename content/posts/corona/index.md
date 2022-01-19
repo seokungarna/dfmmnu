@@ -1,6 +1,6 @@
 ---
 path: "/corona"
-cover: "./coronan.png"
+cover: "./coronan.jpg"
 date: "2020-04-02"
 title: "Corona"
 tags: ['corona', 'sjukdom']
