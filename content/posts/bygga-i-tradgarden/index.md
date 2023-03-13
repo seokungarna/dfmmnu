@@ -1,6 +1,6 @@
 ---
 path: "/bygga-i-tradgarden"
-cover: "./tradgard.webp"
+cover: "./tradgard.jpg
 date: "2023-03-12"
 title: "Bygga i trädgården"
 published: true
