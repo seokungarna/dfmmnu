@@ -4,7 +4,7 @@ cover: "./mala-om-i-hemmet.webp"
 date: "2023-08-15"
 title: "Måla om i hemmet"
 published: true
-tags: ['gör-det-själv', 'tips', 'måla', 'hantverk',]
+tags: ['gör-det-själv', 'tips', 'måla', 'hantverk']
 ---
 
 Att måla om hemma är en syssla som egentligen inte är så svår och de flesta klarar på egen hand. Det man behöver tänka på är att det tar lite tid och att det kommer att löna sig att förbereda inför målningen.  
