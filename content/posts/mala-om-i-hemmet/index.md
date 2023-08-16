@@ -1,6 +1,6 @@
 ---
 path: "/mala-om-i-hemmet"
-cover: "./mala-om-i-hemmet.webp"
+cover: "./mala-om-i-hemmet.jpg"
 date: "2023-08-15"
 title: "Måla om i hemmet"
 published: true
