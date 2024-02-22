@@ -11,8 +11,6 @@ tags: ['gör-det-själv', 'tips', 'hur']
 
 Päron skördar man också i september månad och även dom kan förvaras ett par veckor. Om man vill laga något av päronen så kan man göra t ex päronmos, [ingefärspäron](https://receptfavoriter.se/recept/ingefaerspaeron.html), päronkompott, päronmarinad.  
 
-Har man plommonträd skördas även dom på sensommaren/hösten från augusti till oktober. Av plommon kan man t ex göra plommonsaft, plommonmarmelad eller sylt.  Andra frukter och grönsaker som skördas i september är ärtor, bönor, morötter, pumpa, tomat, chili.  
-
-Ett annat tips inför hösten och för folk som ska flytta och inte vill städa själva är att anlita [Flyttstädning i Hässleholm](https://xn--flyttstdningihssleholm-64bh.se/), jag har hört att dom gör ett kanonbra jobb. På det sättet behöver du inte använda din tid till att städa ur den gamla bostaden utan kan fokusera på det nya samtidigt som den gamla bostaden blir skinande ren utav riktiga städproffs. 
+Har man plommonträd skördas även dom på sensommaren/hösten från augusti till oktober. Av plommon kan man t ex göra plommonsaft, plommonmarmelad eller sylt.  Andra frukter och grönsaker som skördas i september är ärtor, bönor, morötter, pumpa, tomat, chili.   
 
 //Danne
