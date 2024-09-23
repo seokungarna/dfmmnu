@@ -18,5 +18,4 @@ Våren har kommit och även om det inte är någon sommarvärme är det dags att
 **Uteplats:** en vårfin uteplats är verkligen härligt att ha när solen nu börjar stråla. Sopa, torka på uteplats eller balkong. Ställ fram möbler. Ta fram krukor och plantera lite blommor som ger liv och färg. Nu på våren är blommor som påsklilja eller pensé bra blommor att plantera. Dom tål lite frost också ifall det skulle bli aktuellt. 
 
 Njut av solen och snart är sommaren här! 
-
 //Danne
